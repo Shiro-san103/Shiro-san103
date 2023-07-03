@@ -1,4 +1,4 @@
 - 👋 Hi, I’m the Shiro
 - 👀 I’m interested in games
 - 🌱 I’m currently learning deep learning using tf
-- 💞️ I’m looking to collaborate on py/js projects
+- 💞️ I’m looking to collaborate on opencv/mediapipe projects
